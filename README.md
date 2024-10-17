@@ -69,11 +69,6 @@ Always declare local variables and properties as 'val' rather than 'var' if they
 - DTOs are used to transfer data between layers and can help to encapsulate the data being sent between the client and the server.
 - They can be used to shape the data for presentation without exposing the internal entity structure.
 
-
-## Up & running (optional)
-- This should contain step by step instructions to run your project
-- Login information is mentioned here if applicable.
-
 ## Sources 
 
 Given are some examples, delete and replace with your own.
