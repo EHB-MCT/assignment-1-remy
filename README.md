@@ -75,6 +75,5 @@ Given are some examples, delete and replace with your own.
 
 - [Kotlin](https://kotlinlang.org/docs/home.html): Kotlin documentation
 - [PWskills](https://pwskills.com/blog/architecture-of-spring-boot-examples-pattern-layered-controller-layer/): MVC architecture
-- [Chatgpt.com](https://chatgpt.com) ⚠️ this is an invalid example, because it links to a homepage instead of a specific page or issue
-- Generate a ChatGPT share link: options (three dots) > share.
+- [Chatgpt.com](https://chatgpt.com/share/671c0f6d-3df4-8007-849a-d495f8429193) 
 
